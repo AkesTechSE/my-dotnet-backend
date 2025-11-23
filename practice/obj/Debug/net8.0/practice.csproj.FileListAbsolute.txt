@@ -1,0 +1,15 @@
+/workspaces/my-dotnet-backend/practice/bin/Debug/net8.0/practice
+/workspaces/my-dotnet-backend/practice/bin/Debug/net8.0/practice.deps.json
+/workspaces/my-dotnet-backend/practice/bin/Debug/net8.0/practice.runtimeconfig.json
+/workspaces/my-dotnet-backend/practice/bin/Debug/net8.0/practice.dll
+/workspaces/my-dotnet-backend/practice/bin/Debug/net8.0/practice.pdb
+/workspaces/my-dotnet-backend/practice/obj/Debug/net8.0/practice.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/my-dotnet-backend/practice/obj/Debug/net8.0/practice.AssemblyInfoInputs.cache
+/workspaces/my-dotnet-backend/practice/obj/Debug/net8.0/practice.AssemblyInfo.cs
+/workspaces/my-dotnet-backend/practice/obj/Debug/net8.0/practice.csproj.CoreCompileInputs.cache
+/workspaces/my-dotnet-backend/practice/obj/Debug/net8.0/practice.sourcelink.json
+/workspaces/my-dotnet-backend/practice/obj/Debug/net8.0/practice.dll
+/workspaces/my-dotnet-backend/practice/obj/Debug/net8.0/refint/practice.dll
+/workspaces/my-dotnet-backend/practice/obj/Debug/net8.0/practice.pdb
+/workspaces/my-dotnet-backend/practice/obj/Debug/net8.0/practice.genruntimeconfig.cache
+/workspaces/my-dotnet-backend/practice/obj/Debug/net8.0/ref/practice.dll

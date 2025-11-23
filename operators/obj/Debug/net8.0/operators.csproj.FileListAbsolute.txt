@@ -1,0 +1,15 @@
+/workspaces/my-dotnet-backend/operators/bin/Debug/net8.0/operators
+/workspaces/my-dotnet-backend/operators/bin/Debug/net8.0/operators.deps.json
+/workspaces/my-dotnet-backend/operators/bin/Debug/net8.0/operators.runtimeconfig.json
+/workspaces/my-dotnet-backend/operators/bin/Debug/net8.0/operators.dll
+/workspaces/my-dotnet-backend/operators/bin/Debug/net8.0/operators.pdb
+/workspaces/my-dotnet-backend/operators/obj/Debug/net8.0/operators.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/my-dotnet-backend/operators/obj/Debug/net8.0/operators.AssemblyInfoInputs.cache
+/workspaces/my-dotnet-backend/operators/obj/Debug/net8.0/operators.AssemblyInfo.cs
+/workspaces/my-dotnet-backend/operators/obj/Debug/net8.0/operators.csproj.CoreCompileInputs.cache
+/workspaces/my-dotnet-backend/operators/obj/Debug/net8.0/operators.sourcelink.json
+/workspaces/my-dotnet-backend/operators/obj/Debug/net8.0/operators.dll
+/workspaces/my-dotnet-backend/operators/obj/Debug/net8.0/refint/operators.dll
+/workspaces/my-dotnet-backend/operators/obj/Debug/net8.0/operators.pdb
+/workspaces/my-dotnet-backend/operators/obj/Debug/net8.0/operators.genruntimeconfig.cache
+/workspaces/my-dotnet-backend/operators/obj/Debug/net8.0/ref/operators.dll

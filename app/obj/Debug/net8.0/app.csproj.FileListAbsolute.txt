@@ -1,0 +1,15 @@
+/workspaces/my-dotnet-backend/app/bin/Debug/net8.0/app
+/workspaces/my-dotnet-backend/app/bin/Debug/net8.0/app.deps.json
+/workspaces/my-dotnet-backend/app/bin/Debug/net8.0/app.runtimeconfig.json
+/workspaces/my-dotnet-backend/app/bin/Debug/net8.0/app.dll
+/workspaces/my-dotnet-backend/app/bin/Debug/net8.0/app.pdb
+/workspaces/my-dotnet-backend/app/obj/Debug/net8.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/my-dotnet-backend/app/obj/Debug/net8.0/app.AssemblyInfoInputs.cache
+/workspaces/my-dotnet-backend/app/obj/Debug/net8.0/app.AssemblyInfo.cs
+/workspaces/my-dotnet-backend/app/obj/Debug/net8.0/app.csproj.CoreCompileInputs.cache
+/workspaces/my-dotnet-backend/app/obj/Debug/net8.0/app.sourcelink.json
+/workspaces/my-dotnet-backend/app/obj/Debug/net8.0/app.dll
+/workspaces/my-dotnet-backend/app/obj/Debug/net8.0/refint/app.dll
+/workspaces/my-dotnet-backend/app/obj/Debug/net8.0/app.pdb
+/workspaces/my-dotnet-backend/app/obj/Debug/net8.0/app.genruntimeconfig.cache
+/workspaces/my-dotnet-backend/app/obj/Debug/net8.0/ref/app.dll

@@ -1,0 +1,15 @@
+/workspaces/my-dotnet-backend/UserRegistrationSystem/bin/Debug/net8.0/UserRegistrationSystem
+/workspaces/my-dotnet-backend/UserRegistrationSystem/bin/Debug/net8.0/UserRegistrationSystem.deps.json
+/workspaces/my-dotnet-backend/UserRegistrationSystem/bin/Debug/net8.0/UserRegistrationSystem.runtimeconfig.json
+/workspaces/my-dotnet-backend/UserRegistrationSystem/bin/Debug/net8.0/UserRegistrationSystem.dll
+/workspaces/my-dotnet-backend/UserRegistrationSystem/bin/Debug/net8.0/UserRegistrationSystem.pdb
+/workspaces/my-dotnet-backend/UserRegistrationSystem/obj/Debug/net8.0/UserRegistrationSystem.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/my-dotnet-backend/UserRegistrationSystem/obj/Debug/net8.0/UserRegistrationSystem.AssemblyInfoInputs.cache
+/workspaces/my-dotnet-backend/UserRegistrationSystem/obj/Debug/net8.0/UserRegistrationSystem.AssemblyInfo.cs
+/workspaces/my-dotnet-backend/UserRegistrationSystem/obj/Debug/net8.0/UserRegistrationSystem.csproj.CoreCompileInputs.cache
+/workspaces/my-dotnet-backend/UserRegistrationSystem/obj/Debug/net8.0/UserRegistrationSystem.sourcelink.json
+/workspaces/my-dotnet-backend/UserRegistrationSystem/obj/Debug/net8.0/UserRegistrationSystem.dll
+/workspaces/my-dotnet-backend/UserRegistrationSystem/obj/Debug/net8.0/refint/UserRegistrationSystem.dll
+/workspaces/my-dotnet-backend/UserRegistrationSystem/obj/Debug/net8.0/UserRegistrationSystem.pdb
+/workspaces/my-dotnet-backend/UserRegistrationSystem/obj/Debug/net8.0/UserRegistrationSystem.genruntimeconfig.cache
+/workspaces/my-dotnet-backend/UserRegistrationSystem/obj/Debug/net8.0/ref/UserRegistrationSystem.dll
